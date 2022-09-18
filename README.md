@@ -13,7 +13,7 @@
   
 - Natural Language Processing
   - Dinosaurus Island Character level language model
-  - Jazz solo with an LSTM network
+  - Music synthesis (i.e., Jazz solo) with an LSTM network
   - Emoji suggester based on the text
   - Neural Machine Translation using attention model
   - Trigger word detection in speech recognition (i.e., Alexa, Hey Google, Hey Siri)
